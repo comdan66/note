@@ -1,0 +1,6 @@
+.DS_Store
+sftp-config*
+
+_book/_book/*
+cmd/node_modules/*
+cmd/npm-debug.log

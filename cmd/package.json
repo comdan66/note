@@ -1,0 +1,12 @@
+{
+  "name": "gulp",
+  "version": "3.8.9",
+  "description": "OA's Configs",
+  "author": "OA Wu",
+  "email": "comdan66@gmail",
+  "devDependencies": {
+    "del": "^0.1.0",
+    "gulp": "^3.8.9",
+    "gulp-uglify": "^0.3.1"
+  }
+}
